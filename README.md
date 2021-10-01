@@ -1,5 +1,7 @@
 # Hey there, I'm Proconsulates!
 
+> I am a back and frontend python programmer who loves [Coelacanths](https://www.nationalgeographic.com/animals/fish/facts/coelacanths), and reading.
+
 - 🔭 I’m currently working on learning python more in depth
 - 🌱 I’m currently learning Flask to help with backend on my projects
 - 💬 Ask me about frontend programming with HTML and CSS
