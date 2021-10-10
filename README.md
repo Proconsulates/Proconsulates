@@ -11,9 +11,9 @@ I am a back and frontend python programmer who loves coding, [Coelacanths](https
 
 ## Languages
 - Python 
- ```Flask 
+``Flask 
  PyGame 
- Jinja2```
+ Jinja2```<br>
 - JavaScript 
 > JQuery <br>
 - HTML/CSS <br>
