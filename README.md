@@ -8,3 +8,11 @@ I am a back and frontend python programmer who loves coding, [Coelacanths](https
 - 📫 How to reach me: [lucasmagnopeterson@outlook.com](mailto:lucasmagnopeterson@outlook.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like playing the trumpet
+
+## Languages
+- Python
+> Flask
+> PyGame
+> Jinja2
+- JavaScript
+- 
