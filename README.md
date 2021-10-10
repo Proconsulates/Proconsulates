@@ -10,10 +10,10 @@ I am a back and frontend python programmer who loves coding, [Coelacanths](https
 - ⚡ Fun fact: I like playing the trumpet
 
 ## Languages
-- <img width="20" height="20" src="https://mpng.subpng.com/20180806/fv/kisspng-python-scalable-vector-graphics-logo-javascript-cl-coderpete-game-development-5b6819307ca155.2506144815335488485105.jpg"> Python <br>
+- Python 
 > Flask <br>
 > PyGame <br>
 > Jinja2 <br>
-- JavaScript <br>
+- JavaScript 
 > JQuery <br>
 - HTML/CSS <br>
