@@ -10,9 +10,10 @@ I am a back and frontend python programmer who loves coding, [Coelacanths](https
 - ⚡ Fun fact: I like playing the trumpet
 
 ## Languages
-- Python
-> Flask
-> PyGame
-> Jinja2
-- JavaScript
-- 
+- Python <br>
+> Flask <br>
+> PyGame <br>
+> Jinja2 <br>
+- JavaScript <br>
+> JQuery <br>
+- HTML/CSS <br>
