@@ -9,11 +9,8 @@ I am a back and frontend python programmer who loves coding, [Coelacanths](https
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like playing the trumpet
 
-## Languages
-- Python 
-``Flask 
- PyGame 
- Jinja2```<br>
-- JavaScript 
-> JQuery <br>
-- HTML/CSS <br>
+## Socials
+> [@Proconsulates CodePen](https://codepen.io/proconsulates/)<br/>
+> [@Proconsulates Github](https://github.com/Lucas-02/)<br/>
+> [Join our Discord Server](https://discord.st/Legit-Programming)<br/>
+> [@Proconsulates#7263 Discord](https://discord.com/channels/@me)<br/>
