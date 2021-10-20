@@ -9,6 +9,15 @@ I am a back and frontend python programmer who loves coding, [Coelacanths](https
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like playing the trumpet
 
+## Languages
+- Python
+> Flask
+> PyGame
+- JavaScript
+> JQuery
+- HTML
+- CSS
+
 ## Socials
 > [@Proconsulates CodePen](https://codepen.io/proconsulates/)<br/>
 > [@Proconsulates Github](https://github.com/Lucas-02/)<br/>
