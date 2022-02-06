@@ -14,7 +14,7 @@ I am a back and frontend python programmer who loves coding, [Coelacanths](https
 </a>
 
 <a href="https://github.com/Proconsulates">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proconsulates&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proconsulates&theme=radical&layout=compact" />
 </a>
 
 <a href="https://github.com/Proconsulates">
