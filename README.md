@@ -10,7 +10,7 @@ I am a back and frontend python programmer who loves coding, [Coelacanths](https
 
 ## Github Stats
 <a href="https://github.com/Proconsulates">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Proconsulates&theme=tokyonight%hide=issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Proconsulates&theme=tokyonight&hide=issues" />
 </a>
 
 <a href="https://github.com/Proconsulates">
