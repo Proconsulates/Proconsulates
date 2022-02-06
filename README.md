@@ -7,6 +7,8 @@ I am a back and frontend python programmer who loves coding, [Coelacanths](https
 - 📫 How to reach me: [lucasmagnopeterson@outlook.com](mailto:lucasmagnopeterson@outlook.com)
 - ⚡ Fun fact: I like playing the trumpet
 
+https://img.shields.io/badge/Code-Python-blue
+
 ## Github Stats
 <a href="https://github.com/Proconsulates/Proconsulates">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Proconsulates&theme=tokyonight&hide=issues" />
