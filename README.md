@@ -4,25 +4,24 @@ I am a back and frontend python programmer who loves coding, [Coelacanths](https
 
 - 🔭 I’m currently working on learning python more in depth
 - 🌱 I’m currently learning Flask to help with backend on my projects
-- 💬 Ask me about backend programming with Flask and Python
 - 📫 How to reach me: [lucasmagnopeterson@outlook.com](mailto:lucasmagnopeterson@outlook.com)
 - ⚡ Fun fact: I like playing the trumpet
 
 ## Github Stats
-<a href="https://github.com/Proconsulates">
+<a href="https://github.com/Proconsulates/Proconsulates">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Proconsulates&theme=tokyonight&hide=issues" />
 </a>
 
-<a href="https://github.com/Proconsulates">
+<a href="https://github.com/Proconsulates/Proconsulates">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proconsulates&layout=compact&theme=radical" />
 </a>
 
-<a href="https://github.com/Proconsulates">
+<a href="https://github.com/Proconsulates/Portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Proconsulates&theme=tokyonight&repo=portfolio" />
 </a>
 
-<a href="https://github.com/Proconsulates">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Proconsulates&theme=tokyonight&repo=todo-app" />
+<a href="https://github.com/legit-programming">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Proconsulates&theme=tokyonight&repo=Todo-App" />
 </a>
 
 ## Socials
