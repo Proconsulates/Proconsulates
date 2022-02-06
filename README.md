@@ -1,5 +1,3 @@
-[![Header](https://raw.githubusercontent.com/Proconsulates/Proconsulates/main/OIP.jfif)](https://proconsulates.netlify.app)
-
 # Hey there, I'm Proconsulates!
 
 I am a back and frontend python programmer who loves coding, [Coelacanths](https://www.nationalgeographic.com/animals/fish/facts/coelacanths), and reading.
@@ -15,6 +13,9 @@ I am a back and frontend python programmer who loves coding, [Coelacanths](https
 - JavaScript
 - HTML
 - CSS
+
+## Github Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proconsulates&theme=radical" />
 
 ## Socials
 > [@Proconsulates CodePen](https://codepen.io/proconsulates/)<br/>
