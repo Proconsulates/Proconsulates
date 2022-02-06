@@ -1,5 +1,9 @@
 # Hey there, I'm Proconsulates!
 
+![Overview](https://github.com/Proconsulates/stats/blob/master/generated/overview.svg) 
+![Lenguages](https://github.com/Proconsulates/stats/blob/master/generated/languages.svg) 
+
+
 I am a back and frontend python programmer who loves coding, [Coelacanths](https://www.nationalgeographic.com/animals/fish/facts/coelacanths), and reading.
 
 - 🔭 I’m currently working on learning python more in depth
