@@ -20,7 +20,7 @@ I am a back and frontend python programmer who loves coding, [Coelacanths](https
 </a>
 
 <a href="https://github.com/Proconsulates/Proconsulates">
-  <img height="150px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proconsulates&layout=compact&theme=tokyonight" />
+  <img height="140px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proconsulates&layout=compact&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/Proconsulates/Portfolio">
