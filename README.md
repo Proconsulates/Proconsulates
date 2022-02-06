@@ -8,12 +8,6 @@ I am a back and frontend python programmer who loves coding, [Coelacanths](https
 - 📫 How to reach me: [lucasmagnopeterson@outlook.com](mailto:lucasmagnopeterson@outlook.com)
 - ⚡ Fun fact: I like playing the trumpet
 
-## Languages
-- Python
-- JavaScript
-- HTML
-- CSS
-
 ## Github Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proconsulates&theme=radical" />
 
