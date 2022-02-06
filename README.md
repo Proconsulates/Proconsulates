@@ -21,6 +21,10 @@ I am a back and frontend python programmer who loves coding, [Coelacanths](https
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Proconsulates&theme=tokyonight&repo=portfolio" />
 </a>
 
+<a href="https://github.com/Proconsulates">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Proconsulates&theme=tokyonight&repo=legit-programming/todo-app" />
+</a>
+
 ## Socials
 > [@Proconsulates CodePen](https://codepen.io/proconsulates/)<br/>
 > [@Proconsulates Github](https://github.com/Proconsulates/)<br/>
