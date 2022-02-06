@@ -9,7 +9,7 @@ I am a back and frontend python programmer who loves coding, [Coelacanths](https
 - ⚡ Fun fact: I like playing the trumpet
 
 ## Github Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Proconsulates&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Proconsulates&theme=tokyonight" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proconsulates&theme=radical" />
 
