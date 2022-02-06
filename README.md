@@ -20,6 +20,7 @@ I am a back and frontend python programmer who loves coding, [Coelacanths](https
 ![](https://img.shields.io/badge/Browser-Chrome-informational?style=flat&logo=Chrome&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/SE-Google-informational?style=flat&logo=Google&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Company-Microsoft-informational?style=flat&logo=Microsoft&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Color-Blue-informational?style=flat&logo=Blue&logoColor=white&color=2bbc8a)
 
 ## Github Stats
 <a href="https://github.com/Proconsulates/Proconsulates">
