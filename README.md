@@ -14,6 +14,7 @@ I am a back and frontend python programmer who loves coding, [Coelacanths](https
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Deploy-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Browser-Firefox-informational?style=flat&logo=Firefox&logoColor=white&color=2bbc8a)
 
 ## Github Stats
 <a href="https://github.com/Proconsulates/Proconsulates">
