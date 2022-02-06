@@ -1,8 +1,6 @@
+[![Header](https://raw.githubusercontent.com/Proconsulates/Proconsulates/Coelacanth.png)](https://proconsulates.netlify.app)
+
 # Hey there, I'm Proconsulates!
-
-![Overview](https://github.com/Proconsulates/stats/blob/master/generated/overview.svg) 
-![Lenguages](https://github.com/Proconsulates/stats/blob/master/generated/languages.svg) 
-
 
 I am a back and frontend python programmer who loves coding, [Coelacanths](https://www.nationalgeographic.com/animals/fish/facts/coelacanths), and reading.
 
@@ -10,7 +8,6 @@ I am a back and frontend python programmer who loves coding, [Coelacanths](https
 - 🌱 I’m currently learning Flask to help with backend on my projects
 - 💬 Ask me about backend programming with Flask and Python
 - 📫 How to reach me: [lucasmagnopeterson@outlook.com](mailto:lucasmagnopeterson@outlook.com)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like playing the trumpet
 
 ## Languages
