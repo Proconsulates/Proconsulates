@@ -28,7 +28,7 @@ I am a back and frontend python programmer who loves coding, [Coelacanths](https
 </a>
 
 <a href="https://github.com/legit-programming">
-  <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Proconsulates&theme=tokyonight&repo=Todo-App" />
+  <img width="300px" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Proconsulates&theme=tokyonight&repo=Todo-App" />
 </a>
 
 ## Socials
