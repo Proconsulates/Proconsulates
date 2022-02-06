@@ -11,6 +11,7 @@ I am a back and frontend python programmer who loves coding, [Coelacanths](https
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VSCode&logoColor=white&color=2bbc8a)
 
 ## Github Stats
 <a href="https://github.com/Proconsulates/Proconsulates">
