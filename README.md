@@ -9,11 +9,17 @@ I am a back and frontend python programmer who loves coding, [Coelacanths](https
 - ⚡ Fun fact: I like playing the trumpet
 
 ## Github Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Proconsulates&theme=tokyonight" />
+<a href="https://github.com/Proconsulates">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Proconsulates&theme=tokyonight" />
+</a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proconsulates&theme=radical" />
+<a href="https://github.com/Proconsulates">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proconsulates&theme=radical" />
+</a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Proconsulates&theme=tokyonight&repo=portfolio" />
+<a href="https://github.com/Proconsulates">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Proconsulates&theme=tokyonight&repo=portfolio" />
+</a>
 
 ## Socials
 > [@Proconsulates CodePen](https://codepen.io/proconsulates/)<br/>
