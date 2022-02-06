@@ -13,6 +13,8 @@ I am a back and frontend python programmer who loves coding, [Coelacanths](https
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proconsulates&theme=radical" />
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Proconsulates&theme=tokyonight&repo=python-project-blueprint" />
+
 ## Socials
 > [@Proconsulates CodePen](https://codepen.io/proconsulates/)<br/>
 > [@Proconsulates Github](https://github.com/Proconsulates/)<br/>
