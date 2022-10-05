@@ -5,7 +5,6 @@ I am a back and frontend python programmer who loves coding, [Coelacanths](https
 - 🔭 I’m currently working on learning python more in depth
 - 🌱 I’m currently on how to build bigger and better python applications
 - 📫 How to reach me: [lucasmagnopeterson@outlook.com](mailto:lucasmagnopeterson@outlook.com)
-- Political Party: Both Republican AND Democratic
 - ⚡ Fun fact: I like playing the trumpet
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
